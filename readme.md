@@ -14,5 +14,6 @@ Setup instructions:
 mkdir trading && cd trading
 git clone https://github.com/JorisCaze/bitgetApi.git
 python3 -m venv .venv
+source .venv/bin/activate
 pip install -r requirements.txt
 ```
